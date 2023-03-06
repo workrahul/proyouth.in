@@ -13,7 +13,7 @@
 
 .himg {
   height: 80vh;
-  background-image: url('https://res.cloudinary.com/dr38p2nxo/image/upload/v1678109687/proyouth/Rectangle2_w1t8hk.png');
+  background-image: url(https://res.cloudinary.com/dr38p2nxo/image/upload/v1678109687/proyouth/Rectangle2_w1t8hk.png);
   background-repeat: no-repeat;
   /* background-image: cover; */
   background-size: cover;
